@@ -29,7 +29,7 @@ class Livro {
 	}
 }
 
-public class TestaConstrutor2 {
+public class TestaConstrutores2 {
 	public static void main(String[] args) {
 		Livro l = new Livro(123);
 	}
